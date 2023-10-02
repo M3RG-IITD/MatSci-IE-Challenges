@@ -1,0 +1,15 @@
+1. Presence of nominal and experimental compositions: [58, 81, 96]
+
+2. Composition in table headers: [42, 43, 45, 67, 74, 78]
+
+3. Compositions and related info inferred from other documents : [10, 17, 19, 21, 34, 40, 51, 66, 71, 75, 97]
+
+4. One Composition with multiple units: [80, 99]
+
+5. Percentage greater than 100 fir dopant: [21, 49]
+
+6. Compounds with different units in the same table: [63, 98]
+
+7. Compounds inferred from material ID: [1, 6, 8, 24, 29, 40, 93]
+
+8. Variables used to represent compounds: [66] 
