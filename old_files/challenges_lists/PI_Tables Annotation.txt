@@ -1,3 +1,0 @@
-(1) Unusual variables used: [34, 35]
-(2) Variables representing composition in text not found in tables: [9, 11, 18, 47]
-(3) Composition present across multiple columns: [28,44]
