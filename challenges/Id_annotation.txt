@@ -1,0 +1,22 @@
+Types: Pie-chart
+(1) Standard Glass Name: [22, 25, 33, 40, 45] = 5
+(2) Acronyms/Codes: [0, 1, 2, 3, 5, 6, 9, 10, 11, 14, 16, 17, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29,
+30, 31, 32, 34, 35, 36, 37, 38, 39, 43, 44, 46, 48] = 35
+(3) Single digit alphabets: [41] = 1
+(4) Natural Numbers: [4, 7, 8, 12, 13, 15, 42, 47] = 8
+(5) Decimal Numbers: [] # skip it from the pie-chart
+(6) Processing condition used as ID: [49] = 1
+
+Challenges:
+(6) Composition info/doping conc present only in IDs: [16, 17, 19, 23, 24, 27, 40, 43, 44, 45] = 10
+(7) ID Present in the middle: [23] = 1
+(8) Two IDs Present for same comp: [19, 49] = 2
+(9) Ratios as IDs: [40] = 1 #invalid
+(10) State or structural info in ID: [40] = 1
+(11) ID contains info or references about the processing conditions: [6, 11, 21, 49] = 4
+(12) Same IDs but Different Composition: [4, 43] = 2
+(13) Article contains IDs Interconnected: [36] = 1
+(14) Taken from other articles: [28, 33, 45] = 3
+
+Some info about comp - 3
+27

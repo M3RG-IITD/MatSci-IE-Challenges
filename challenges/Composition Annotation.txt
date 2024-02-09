@@ -1,0 +1,17 @@
+1. Presence of nominal and experimental compositions: [58, 81, 96]
+
+2. Compositions and related info inferred from other documents : [10, 17, 19, 21, 34, 40, 51, 66, 71, 75, 97]; Composition not explicitly mentioned in table and extraction requires considering reference: [21, 71, 75, 97].
+
+3. One Composition with multiple units: [80, 99]
+
+4. Percentage greater than 100 for dopant: [21, 49]
+
+5. Compounds with different units in the same table: [63, 98]
+
+6. Compounds inferred from material ID: [1, 6, 7, 8, 24, 29, 40, 63, 88, 93]; conatins material whose composition not explicitly mentioned: [1, 6, 7, 8, 29, 93].
+
+7. Variables used to represent compounds: [66] 
+
+8. SCC-PI: [6,7,8,25,30,41,45,47,56,92]; Extraction failed by IE: [6,7,8,25,45,56]
+
+9. Composition present in headers: [42, 43, 45, 67, 74, 78]
