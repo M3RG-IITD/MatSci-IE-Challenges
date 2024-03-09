@@ -2,6 +2,8 @@
 
 ## Link to preprint - [Click here](https://arxiv.org/abs/2310.08383)
 
+![ReMaT](flow.png)
+
 ### This repository consists of following folders:
 1. [challenges](https://github.com/M3RG-IITD/MatSci-IE-Challanges/tree/main/challenges): Details of different challenges discussed in the paper alongwith the links to their examples
 2. [notebooks](https://github.com/M3RG-IITD/MatSci-IE-Challanges/tree/main/notebooks): Jupyter Notebooks verifying the different challenges reported in the paper
