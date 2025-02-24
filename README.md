@@ -1,6 +1,6 @@
 # Reconstructing Materials Tetrahedron: Challenges in Materials Information Extraction
 
-## Link to preprint - [Click here](https://arxiv.org/abs/2310.08383)
+## Link to paper - [Click here](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00032c)
 
 ![ReMaT](flow.png)
 
